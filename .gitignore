@@ -1,0 +1,6 @@
+venv/
+dist/
+build/
+backup/
+data/
+db.db
